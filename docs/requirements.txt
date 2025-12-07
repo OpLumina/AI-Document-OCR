@@ -1,0 +1,1 @@
+pytesseract pillow opencv-python numpy PyMuPDF
